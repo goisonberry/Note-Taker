@@ -8,6 +8,8 @@ Date: 7/25/2020
 
 ## Website: https://thawing-atoll-55643.herokuapp.com/
 
+---
+
 ## Description
 
 This application is to assist a user with keeping track of their thoughts. This application will allow user to add notes and will load to the left side of the page dynamically.
