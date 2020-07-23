@@ -2,10 +2,6 @@
 
 ---
 
-Title: Note-Taker
-Created By: Gerson Marroquin
-Date: 7/25/2020
-
 Website: https://thawing-atoll-55643.herokuapp.com/
 
 ---
